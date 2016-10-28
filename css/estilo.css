@@ -1,0 +1,64 @@
+body {
+
+    padding-top: 30px;
+}
+
+section{
+
+    padding-top: 25px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+
+
+}
+
+.navbar-brand{
+    font-weight: 600;
+
+}
+
+.divslider {
+
+    padding-top: 50px;
+    padding-bottom: 60px;
+
+
+
+}
+
+.div_colorida {
+
+    background: url(../img/bg.png);
+}
+
+.img-servicos {
+
+    width: 230px;
+    height: 230px;
+}
+
+
+
+.servicos_item {
+    text-align: center;
+
+}
+
+.servicos_item h4 {
+
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.servicos_btn_todososservicos {
+
+    margin-top: 25px;
+
+
+}
+
+
+
+
+
+
